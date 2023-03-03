@@ -1,0 +1,5 @@
+# exclude binary and object file
+main
+main.o
+
+zig-cache/
